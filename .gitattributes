@@ -1,1 +1,2 @@
 data/Sales_Transactions_Dataset_Weekly.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/gabri/Documents/Projets/TimeSeries/data/Sunspots.csv filter=lfs diff=lfs merge=lfs -text
